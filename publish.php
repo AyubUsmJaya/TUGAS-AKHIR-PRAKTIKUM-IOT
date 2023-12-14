@@ -1,7 +1,7 @@
 <?php
 require("phpMQTT.php");
 require("config.php");
-$topic="iot/G.231.21.0047";
+$topic="iot/G.231.21.0014";
 
 $message = @$_GET['message'];
 
